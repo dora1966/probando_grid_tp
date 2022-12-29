@@ -212,6 +212,10 @@ footer {
       grid-template-columns: 1fr;
     }
       
+    .tarjeta {
+      margin: auto;
+    }
+    
   .nombre {
     font-size: 70%;
   }
