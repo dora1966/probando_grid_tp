@@ -106,7 +106,7 @@
 }
 
 .nombre {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .info {
@@ -215,7 +215,7 @@ footer {
     .tarjeta {
       margin: auto;
     }
-    
+
   .nombre {
     font-size: 70%;
   }

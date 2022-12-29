@@ -20,7 +20,8 @@ fetch(URL_API)
         <br>
         <br>
         <br>
-        <h1 class="nombre"> ${character.name} </h1>
+        <h3 class="nombre"> ${character.name} </h3>
+        <h5 class="info-add"> Species: ${character.species} </h5>
         <br>
         <br>
         <h5 class="info-add"> Sex: ${character.gender} </h5>
