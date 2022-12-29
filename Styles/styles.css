@@ -103,7 +103,6 @@
   display: flex;
   background-color: black;
   border-radius: 10%;
-  grid-template-columns: 1fr 1fr;
 }
 
 .nombre {
@@ -178,9 +177,12 @@ footer {
     background-color: brown;
     flex-direction: column;
     justify-content: center;
-    grid-template-columns: 1fr;
   }
 
+  .ul {
+    grid-template-columns: 1fr;
+  }
+    
   .h1 {
     font-size: 35px;
   }
@@ -204,9 +206,12 @@ footer {
     background-color: rgb(219, 118, 118);
     flex-direction: column;
     justify-content: center;
-    grid-template-columns: 1fr;
-  }
+    }
 
+    .ul {
+      grid-template-columns: 1fr;
+    }
+      
   .nombre {
     font-size: 70%;
   }
